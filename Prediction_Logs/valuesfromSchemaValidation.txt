@@ -1,0 +1,14 @@
+2022-07-23/17:06:50		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+
+2022-07-23/17:32:47		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+
+2022-07-23/17:43:36		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+
+2022-07-23/18:15:02		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+
+2022-07-23/18:41:47		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+
+2022-07-23/18:55:14		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+
+2022-07-23/19:08:38		LenghtOfDateStampFile :: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 591
+

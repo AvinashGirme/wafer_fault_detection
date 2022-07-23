@@ -1,0 +1,52 @@
+2022-07-22/21:17:50		Column Length Validation Started!!
+2022-07-22/21:17:51		Column Length Validation Completed!!
+2022-07-22/21:17:51		Column Length Validation Completed!!
+2022-07-22/21:17:51		Column Length Validation Completed!!
+2022-07-22/21:17:52		Error Occured while moving the file :: <class 'OSError'>
+2022-07-22/21:27:08		Column Length Validation Started!!
+2022-07-22/21:28:14		Column Length Validation Completed!!
+2022-07-22/21:29:24		Column Length Validation Completed!!
+2022-07-22/21:29:38		Column Length Validation Completed!!
+2022-07-22/21:30:00		Error Occured while moving the file :: <class 'OSError'>
+2022-07-22/21:39:22		Column Length Validation Started!!
+2022-07-22/21:39:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-07-22/21:39:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-07-22/21:39:27		Column Length Validation Completed!!
+2022-07-22/21:41:32		Column Length Validation Started!!
+2022-07-22/21:41:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-07-22/21:42:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-07-22/21:42:59		Column Length Validation Completed!!
+2022-07-22/22:05:24		Column Length Validation Started!!
+2022-07-22/22:05:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-07-22/22:05:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-07-22/22:05:28		Column Length Validation Completed!!
+2022-07-22/22:06:33		Column Length Validation Started!!
+2022-07-22/22:06:34		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-07-22/22:06:34		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-07-22/22:06:37		Column Length Validation Completed!!
+2022-07-22/22:11:41		Column Length Validation Started!!
+2022-07-22/22:11:42		Column Length Validation Completed!!
+2022-07-22/22:30:44		Column Length Validation Started!!
+2022-07-22/22:30:45		Column Length Validation Completed!!
+2022-07-22/22:38:24		Column Length Validation Started!!
+2022-07-22/22:38:30		Column Length Validation Completed!!
+2022-07-23/08:43:47		Column Length Validation Started!!
+2022-07-23/08:43:56		Column Length Validation Completed!!
+2022-07-23/08:52:58		Column Length Validation Started!!
+2022-07-23/08:53:00		Column Length Validation Completed!!
+2022-07-23/09:09:24		Column Length Validation Started!!
+2022-07-23/09:09:26		Column Length Validation Completed!!
+2022-07-23/09:10:09		Column Length Validation Started!!
+2022-07-23/09:10:11		Column Length Validation Completed!!
+2022-07-23/09:33:33		Column Length Validation Started!!
+2022-07-23/09:33:33		Column Length Validation Completed!!
+2022-07-23/09:41:27		Column Length Validation Started!!
+2022-07-23/09:41:28		Column Length Validation Completed!!
+2022-07-23/09:48:56		Column Length Validation Started!!
+2022-07-23/09:48:57		Column Length Validation Completed!!
+2022-07-23/10:02:30		Column Length Validation Started!!
+2022-07-23/10:02:32		Column Length Validation Completed!!
+2022-07-23/10:28:25		Column Length Validation Started!!
+2022-07-23/10:28:27		Column Length Validation Completed!!
+2022-07-23/11:03:56		Column Length Validation Started!!
+2022-07-23/11:03:57		Column Length Validation Completed!!
